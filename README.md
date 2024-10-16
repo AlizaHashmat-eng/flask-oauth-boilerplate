@@ -71,6 +71,3 @@ I really hope that with your contributions, we can keep improving this template.
 
 ## License
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
-=======
-# flask-oauth-boilerplate
->>>>>>> 90cb3d9702e149811908e1bad181be3f41c5e462
